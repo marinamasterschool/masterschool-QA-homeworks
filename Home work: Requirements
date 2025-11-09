@@ -14,3 +14,6 @@ New features
 Product Rating System:
 Requirement: Users should be able to rate products with a 5-star system and have the option to add written feedback.
 Questions:
+1. Do users need to be logged in to rate a product, or can guests also submit ratings?
+2. Can users edit or delete their rating after submitting it?
+3. Are ratings limited to whole stars (1–5), or can half-star ratings be used?
