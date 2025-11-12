@@ -43,7 +43,7 @@ Alcoholic products require age verification. A modal should appear when navigati
 
 ---
 
-## **3. Shipping Cost Changes**
+3. Shipping Cost Changes**
 
 **Requirement:**  
 Free shipping for orders above a certain amount. Orders below this amount will incur a shipping fee.  
