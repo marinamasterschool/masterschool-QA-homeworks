@@ -1,8 +1,6 @@
 # TEST CASE DESIGN – MARKET MATE
 
-====================================================
 1. PRODUCT RATING SYSTEM
-====================================================
 
 Test Design Techniques:
 - Boundary Value Analysis (BVA)
