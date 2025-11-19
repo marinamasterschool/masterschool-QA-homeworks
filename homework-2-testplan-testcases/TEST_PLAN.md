@@ -46,7 +46,7 @@ Ensure that the new features (Product Rating System, Age Verification for Alcoho
 #### **In Scope**
 - All 3 new features  
 - UI validation  
-- Backend logic (ratings, age verification, shipping threshold)  
+- Backend logic (ratings, age verification, shipping )  
 - Cross-browser behavior  
 - Regression on affected functionality  
 
